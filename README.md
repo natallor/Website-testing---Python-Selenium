@@ -28,7 +28,10 @@ Subsequently, in the second part of the tests, we focus on the functionalities o
 - Entering delivery location details,
 - Confirming the order by capturing the success message and comparing it in the test.
 
-[**3. Test Report**](http://localhost:63342/Website%20testing%20-%20Python%20&%20Selenium/reports/report.html?_ijt=2sd7dngbp52gqatt97a4cfcmot&_ij_reload=RELOAD_ON_SAVE&sort=result)
+
+[**3. Test Report**](https://github.com/natallor/Website_testing_Python_and_Selenium/tree/main/reports)
+
+![report-html](https://github.com/natallor/Website_testing_Python_and_Selenium/assets/132356748/13bab735-ef71-413e-9292-32e67b621964)
 
 
 -----
